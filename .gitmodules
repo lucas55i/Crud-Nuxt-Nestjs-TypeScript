@@ -1,0 +1,3 @@
+[submodule "users-back"]
+	path = users-back
+	url = https://github.com/lucas55i/Crud-Nuxt-Nestjs-TypeScript.git
