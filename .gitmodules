@@ -1,6 +1,8 @@
 [submodule "users-back"]
 	path = users-back
-	url = https://github.com/lucas55i/Crud-Nuxt-Nestjs-TypeScript.git
+	url =https://github.com/lucas55i/users-back.git
+
 [submodule "usersFront"]
 	path = usersFront
-	url = https://github.com/lucas55i/Crud-Nuxt-Nestjs-TypeScript.git
+	url = https://github.com/lucas55i/usersFront.git
+
