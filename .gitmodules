@@ -2,7 +2,6 @@
 	path = users-back
 	url =https://github.com/lucas55i/users-back.git
 
-[submodule "usersFront"]
-	path = usersFront
-	url = https://github.com/lucas55i/usersFront.git
-
+[submodule "users-front"]
+	path = users-front
+	url = https://github.com/lucas55i/users-front.git
